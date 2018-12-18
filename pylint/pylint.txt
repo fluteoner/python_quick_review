@@ -1,0 +1,5 @@
+pylint is a coding style rating tool for python.
+
+1. pip3 install pylint
+2. pylint your_python_code.py
+3. You will get a rating (<=10.0) and some critics.
